@@ -10,6 +10,7 @@ Generate memes using AI! This app uses GPT-2 for text generation and CLIP to mat
 - Simple web interface
 
 ## Project Structure
+```bash
 ├── .gitignore
 ├── README.md              # Project overview, setup, demo
 ├── requirements.txt       # Dependencies
