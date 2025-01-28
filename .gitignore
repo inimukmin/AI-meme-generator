@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Data/Images (exclude large files)
+data/
+images/
+*.jpg
+*.png
+
+# IDE
+.vscode/
+.idea/
