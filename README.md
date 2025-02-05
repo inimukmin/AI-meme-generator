@@ -1,4 +1,4 @@
-# AI Meme Generator
+# AI Meme Generator 🤖+😂
 
 This project is an AI-powered meme generator that uses OpenAI's GPT to generate a funny caption for a meme based on a provided template and then overlays that caption onto an image.
 
